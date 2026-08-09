@@ -2,7 +2,7 @@
 	"meta": {
 		"title": "haru",
 		"description": "haru 的个人博客。",
-		"username": "haru tokikawa"
+		"username": "haru"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -24,19 +24,11 @@
 	],
 	"artImages": [
 		{
-			"id": "cat",
-			"url": "/images/art/cat.png"
-		},
-		{
-			"id": "a46372ff45bc5524",
-			"url": "/images/art/a46372ff45bc5524.jpg"
-		},
-		{
-			"id": "1c7b726fe720679b",
-			"url": "/images/art/1c7b726fe720679b.jpg"
+			"id": "a57129e504ed7e19",
+			"url": "/images/art/a57129e504ed7e19.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "a57129e504ed7e19",
 	"backgroundImages": [
 		{
 			"id": "",
