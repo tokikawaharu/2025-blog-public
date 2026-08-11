@@ -54,8 +54,8 @@
 		},
 		{
 			"id": "email",
-			"type": "email",
-			"value": "tokikawaharu@163.com",
+			"type": "xiaohongshu",
+			"value": "https://www.xiaohongshu.com/user/profile/5c3b2041000000000702f786",
 			"label": "",
 			"order": 1
 		}
