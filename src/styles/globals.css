@@ -176,3 +176,27 @@
 		animation: heartbeat-frame 0.8s ease-in-out;
 	}
 }
+
+/* --- Music playlist scrollbar --- */
+.playlist-scroll {
+	scrollbar-width: thin;
+	scrollbar-color: var(--color-brand-secondary) transparent;
+}
+
+.playlist-scroll::-webkit-scrollbar {
+	display: block;
+	width: 5px;
+}
+
+.playlist-scroll::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+.playlist-scroll::-webkit-scrollbar-thumb {
+	background: var(--color-brand-secondary);
+	border-radius: 9999px;
+}
+
+.playlist-scroll::-webkit-scrollbar-thumb:hover {
+	background: var(--color-brand);
+}
