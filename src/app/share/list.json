@@ -292,5 +292,15 @@
 			"API站"
 		],
 		"stars": 3
+	},
+	{
+		"name": "OpenCode Go",
+		"logo": "data:image/svg+xml,%3csvg%20width='54'%20height='30'%20viewBox='0%200%2054%2030'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M24%2030H0V0H24V6H6V24H18V18H12V12H24V30Z'%20fill='%23211E1E'/%3e%3cpath%20d='M12%2018H18V24H6V12H12V18Z'%20fill='%23CFCECD'/%3e%3cpath%20d='M48%2012V24H36V12H48Z'%20fill='%23CFCECD'/%3e%3cpath%20d='M54%2030H30V0H54V30ZM36%2024H48V6H36V24Z'%20fill='%23211E1E'/%3e%3c/svg%3e",
+		"url": "https://opencode.ai/zh/go",
+		"description": "第一个月35！后续70",
+		"tags": [
+			"API站"
+		],
+		"stars": 3
 	}
 ]
